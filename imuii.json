@@ -1,0 +1,11 @@
+{
+  "name": "TestingLabSiber",
+  "framework": "react",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "testinglabsibertest",
+  "email": "d.raihan2004@gmail.com",
+  "secretKey": "imuii_141bc393b9f58287119f403db7ca826657f32affb39d2edd33cce6f395d491c2",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/testinglabsibertest-9ba54a11.git"
+}
